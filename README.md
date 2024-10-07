@@ -1,7 +1,7 @@
 # Projekt: Datenvisualisierung mit Matplotlib
 In diesem Beispiel werden wir ein Python-Skript erstellen, das eine Liste von Zahlen verarbeitet und daraus ein Diagramm erstellt. Wir verwenden die Bibliothek Matplotlib, um ein einfaches Liniendiagramm zu zeichnen.
 ## Schritt 1: Virtuelle Umgebung einrichten
-1. Erstelle ein neues Projektverzeichnis
+1. Erstelle ein neues Projektverzeichnis (wenn du von scratch startest. Alternativ kannst du dieses Repo forken/clonen)
 ```bash
 mkdir daten_visualization
 cd daten_visualization
