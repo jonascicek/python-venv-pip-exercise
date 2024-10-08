@@ -17,7 +17,7 @@ source venv/bin/activate
 ```
 - Für Windows:
 ```bash
-venv\Scripts\activate
+source venv\Scripts\activate
 ```
 ## Schritt 2: Bibliotheken installieren
 Für dieses Projekt verwenden wir die Bibliothek matplotlib, um die Daten zu visualisieren. Installiere die Bibliothek mit Pip:
