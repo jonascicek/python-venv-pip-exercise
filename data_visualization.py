@@ -20,11 +20,11 @@ plt.ylabel('Kubikzahlen')
 # Legende anzeigen
 plt.legend()
 
-# Diagramm anzeigen
-plt.show()
-
 # PNG speichern
 plt.savefig('diagramm.png')
+
+# Diagramm anzeigen
+plt.show()
 
 # Pandas Dataframe
 nums = pd.DataFrame(y)
